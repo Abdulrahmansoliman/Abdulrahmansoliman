@@ -1,10 +1,5 @@
 # Abdelrahman Mohamed
 
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/Abdulrahmansoliman/Abdulrahmansoliman/raw/main/banner.png" alt="banner" width="800"/>
-</p>
-
 <p align="center">
   🔭 AI-driven ed-tech & gamified learning  
   🌱 Competitive coder & software engineer  
