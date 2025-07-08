@@ -1,27 +1,37 @@
-# 💻 Abdelrahman Mohamed
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/Abdulrahmansoliman/Abdulrahmansoliman/raw/main/banner.png" alt="banner" width="800"/>
+</p>
 
-
-
-Welcome to my GitHub! I’m a **competitive coder**, passionate **software engineer**, and **creative problem solver** with an eye on the future of **AI** and **technology-driven education**. I’m on a mission to use my skills to **innovate**, **mentor**, and make **high-quality education accessible** to all.
-
----
-
-## 🚩 What Drives Me
-
-Growing up in a remote village, I faced educational challenges, but my passion for technology and learning-powered me forward. Now, I aim to:
-
-- **Empower others** through education technology.
-- Lead **AI-driven projects** that push boundaries.
-- Create **gamified learning experiences** that inspire.
+<!-- Badges -->
+<p align="center">
+  <a href="https://github.com/Abdulrahmansoliman">
+    <img src="https://img.shields.io/badge/GitHub-%40Abdulrahmansoliman-181717?logo=github" alt="GitHub"/>
+  </a>
+  <img src="https://img.shields.io/badge/Discord-Online-5865F2?logo=discord&logoColor=white" alt="Discord"/>
+</p>
 
 ---
 
-## 🔨 Tech Stack & Skills
+## 👋 About Me
+- 🔭 I build AI-driven ed-tech & gamified learning tools  
+- 🌱 Competitive coder & software engineer  
+- 🎓 On a mission to mentor & democratize high-quality education  
 
-```bash
-Languages:  Python, C++, JavaScript, SQL, Java, HTML, CSS, VHDL, Verilog
-Frameworks & Tools: React, Flask, Bootstrap, PostgreSQL, TensorFlow, AWS, Firebase
-Technologies: AI, Machine Learning, Digital Marketing, UX/UI Design, Agile Project Management
-```
+---
 
-(https://github.com/Abdulrahmansoliman)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdulrahmansoliman&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahmansoliman&layout=compact&theme=github_dark&langs_count=6" alt="Top Languages"/>
+</p>
+
+---
+
+## 🚀 Connect
+
+- ✉️ Email: youremail@example.com  
+- 🔗 LinkedIn: https://linkedin.com/in/Abdulrahmansoliman  
+- 🌐 Portfolio: https://Abdulrahmansoliman.dev  
